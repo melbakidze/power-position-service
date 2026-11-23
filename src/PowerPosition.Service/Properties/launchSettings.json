@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PowerPosition.Service": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
